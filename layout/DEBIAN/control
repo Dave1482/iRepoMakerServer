@@ -1,0 +1,9 @@
+Package: org.thebigboss.irepomakerserver
+Name: Repo Maker Server
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Simple Server for Repo Maker!  Open-sourced on GitHub (https://github.com/Dave1482/iRepoMakerServer/)!
+Maintainer: Dave1482 <thedave1482@gmail.com>
+Author: Dave1482 <thedave1482@gmail.com>
+Section: System
+Tag: role::hacker
