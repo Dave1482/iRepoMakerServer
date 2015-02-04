@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Stopping Server if it was running..."
+killall RepoMakerServer
+echo "Done!"
+exit 0
